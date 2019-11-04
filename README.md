@@ -1,6 +1,6 @@
 ## Search API
 
-Copied from source article:
+Copied from source article: <https://outcrawl.com/go-elastic-search-service>
 
 
 ```
